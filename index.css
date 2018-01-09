@@ -1,0 +1,26 @@
+* {
+	box-sizing: border-box;
+}
+
+.rowContainer {
+	width: 1000px;
+	padding: 20px;
+	/*border: solid 1px black;*/
+}
+
+.thumbnails {
+	display: inline-block;
+	width: 350px;
+	/*border: solid 1px black;*/
+}
+
+.description {
+	vertical-align: top;
+	display: inline-block;
+	width: 500px;
+	/*border: solid 1px black;*/
+	margin: 0;
+}
+
+
+
